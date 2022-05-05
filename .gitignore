@@ -44,5 +44,5 @@ $RECYCLE.BIN/
 ### UiPath ###
 .settings/
 .local/
-
+.screenshots/
 # End of https://www.gitignore.io/api/git,linux,macos,windows,pycharm+all
